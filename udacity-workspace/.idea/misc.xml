@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/udacity-jwdnd-c1-snippets-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-jwdnd-c1-l2-server-config-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-jwdnd-c1-l3-mvc-and-you-1-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-jwdnd-c1-l3-mvc-and-you-2-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-jwdnd-c1-l5-junit-in-situ-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-jwdnd-c1-l3-html-templates-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-jwdnd-c1-l2-spring-ioc-config-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-jwdnd-c1-l4-testing-with-junit-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-jwdnd-c1-l5-junit-and-selenium-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-jwdnd-c1-l5-selenium-webdriver-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-jwdnd-c1-l1-final-review-solution-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-jwdnd-c1-l5-final-review-solution-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-jwdnd-c1-l2-final-review-solution-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-jwdnd-c1-l3-final-review-solution-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-jwdnd-c1-l4-final-review-solution-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-jwdnd-c1-l4-spring-security-basics-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-jwdnd-c1-l3-connecting-controllers-1-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-jwdnd-c1-l3-connecting-controllers-2-master/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+package com.udacity.jdnd.livespring.exceptions;
+
+public class NotFoundException extends RuntimeException{
+
+  public NotFoundException(String message){
+    super(message);
+  }
+}

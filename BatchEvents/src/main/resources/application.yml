@@ -1,0 +1,11 @@
+app:
+  batch:
+    thresholds:
+      junior-max: 20000
+      middle-max: 45000
+      senior-max: 75000
+    categories:
+      - JUNIOR
+      - MIDDLE
+      - SENIOR
+      - MASTER

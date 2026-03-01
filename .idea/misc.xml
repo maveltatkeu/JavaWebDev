@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/LabC3/pom.xml" />
+        <option value="$PROJECT_DIR$/LabCh4/item-service/pom.xml" />
+        <option value="$PROJECT_DIR$/LabCh4/Eureka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/course1/pom.xml" />
+        <option value="$PROJECT_DIR$/worksapce/pom.xml" />
+        <option value="$PROJECT_DIR$/LiveSpring/pom.xml" />
+        <option value="$PROJECT_DIR$/poc-smart-order/pom.xml" />
+        <option value="$PROJECT_DIR$/BatchEvents/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaTesting/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab3Graphql/pom.xml" />
+        <option value="$PROJECT_DIR$/LiveCodingTdd/pom.xml" />
+        <option value="$PROJECT_DIR$/LiveCodingBatch/pom.xml" />
+        <option value="$PROJECT_DIR$/StudentManagmnt/pom.xml" />
+        <option value="$PROJECT_DIR$/LiveSpringSwagger/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-workspace/udacity-jwdnd-c1-snippets-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-workspace/udacity-jwdnd-c1-l2-server-config-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-workspace/udacity-jwdnd-c1-l3-mvc-and-you-1-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-workspace/udacity-jwdnd-c1-l3-mvc-and-you-2-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-workspace/udacity-jwdnd-c1-l5-junit-in-situ-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-workspace/udacity-jwdnd-c1-l3-html-templates-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-workspace/udacity-jwdnd-c1-l2-spring-ioc-config-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-workspace/udacity-jwdnd-c1-l4-testing-with-junit-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-workspace/udacity-jwdnd-c1-l5-junit-and-selenium-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-workspace/udacity-jwdnd-c1-l5-selenium-webdriver-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-workspace/udacity-jwdnd-c1-l1-final-review-solution-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-workspace/udacity-jwdnd-c1-l2-final-review-solution-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-workspace/udacity-jwdnd-c1-l3-final-review-solution-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-workspace/udacity-jwdnd-c1-l4-final-review-solution-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-workspace/udacity-jwdnd-c1-l5-final-review-solution-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-workspace/udacity-jwdnd-c1-l4-spring-security-basics-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-workspace/udacity-jwdnd-c1-l3-connecting-controllers-1-master/pom.xml" />
+        <option value="$PROJECT_DIR$/udacity-workspace/udacity-jwdnd-c1-l3-connecting-controllers-2-master/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

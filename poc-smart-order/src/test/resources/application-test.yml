@@ -1,0 +1,18 @@
+# Configuration spécifique aux tests
+spring:
+  kafka:
+    bootstrap-servers: localhost:9999
+
+kafka:
+  topics:
+    order-created: order.created.test
+    order-completed: order.completed.test
+    order-failed: order.failed.test
+
+external:
+  payment:
+    base-url: http://localhost:8091
+  inventory:
+    base-url: http://localhost:8092
+  billing:
+    base-url: http://localhost:8093
